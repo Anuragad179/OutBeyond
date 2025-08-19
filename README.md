@@ -26,7 +26,6 @@ This website is currently in **Beta Stage** 🚀. The **final release is planned
 ### Hosting & Deployment
 - Domain: `outbeyond.life`
 - Hosting: **(Confidential server details omitted for security)**  
-- Version control: **GitHub**
 
 ---
 
