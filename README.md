@@ -39,8 +39,8 @@ This website is currently in **Beta Stage** 🚀. The **final release is planned
 ---
 
 ## 🤝 Contribution
-**[Anurag Dubey](https://www.linkedin.com/in/anurag-dubey-802604283/)** – Developer
-**[Udayan Sir](https://www.linkedin.com/in/udayan-kayande-outbeyond/) & OutBeyond Team** – Project Lead & Client
+- **[Anurag Dubey](https://www.linkedin.com/in/anurag-dubey-802604283/)** – Developer
+- **[Udayan Sir](https://www.linkedin.com/in/udayan-kayande-outbeyond/) & OutBeyond Team** – Project Lead & Client
 
 ---
 
